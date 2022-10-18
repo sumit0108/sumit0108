@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently working & learning also
 - 💞️ I’m looking to collaborate on ...
-- 📫 Ypu can reach me with sumitgond9999@gmail.com
+- 📫 You can reach me with -> sumitgond9999@gmail.com
 
 <!---
 sumit0108/sumit0108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
